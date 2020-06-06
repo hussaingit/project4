@@ -1,0 +1,70 @@
+.navbar{
+background-color: green !important;
+margin-top: 50px !important;
+}
+.nav-link{
+    color: white!important;
+    font-weight: bold;flex-direction: row;text-decoration: none;
+}
+.ceo{
+    margin-top: 30px;
+}
+h6{
+    margin-top: 10px;text-align: justify;text-align: center;font-weight: bold;background-color: green;
+    ;color: white;
+}
+p{
+    margin-top: 10px;text-align: justify;text-align: center
+}
+h4{
+
+    text-align: center;background-color: green;font-weight: bold;font-size: 25px ;margin-top: 30px;
+    color:white;
+}
+h5{
+    font-weight: bold;font-size: 25px;color: white;
+}
+.list-group-item{
+    text-align: center;font-weight: bold;font-size: 15px;text-transform: uppercase;text-shadow: red;
+}
+.col{
+    margin-top: 10px;text-align: center;align-items: center;flex-wrap: wrap;border: solid;width: 5px;
+  
+}
+.container{ 
+justify-content: space-between;
+}
+.maincard{
+    display: flex;flex-direction: row;flex-wrap: wrap;justify-content: space-around;
+}
+.sslogo{
+    text-align: center;flex-wrap: wrap;margin-top: 20px;background-color: green;
+}
+.body{
+    text-align: justify;flex-wrap: wrap;margin-right: 25px;margin-left: 25px;margin-top: 25px;font-size: 15px;
+    font-family: sans-serif;
+}
+.footer{
+    display: flex;flex-direction: row;flex-wrap: wrap;justify-content: space-around;background-color: green;
+    margin-top: 20px;margin-bottom: 20px;
+}
+.subfooter{
+    color: white;margin-top: 20px;
+}
+.linksub{ color: white;text-decoration: none;flex-wrap: wrap;
+;font-weight: bold;font-size: 22px;
+}
+.link{
+    flex-direction: row;flex-wrap: wrap;background-color: green;display: flex;justify-content: space-around;
+    
+}
+
+.about{
+    background-color: green;color: white;flex-wrap: wrap;text-align: center;
+}
+iframe{
+    flex-wrap: wrap;margin-left: 300px;
+}
+.fo{
+    flex-wrap: wrap;justify-content: space-around;text-align: center;display: flex;
+}
